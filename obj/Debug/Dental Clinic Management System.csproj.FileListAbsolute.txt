@@ -1,0 +1,20 @@
+D:\6th semester\Advanced programming\lab work\Dental Clinic Management System\Dental Clinic Management System\bin\Debug\Dental Clinic Management System.exe.config
+D:\6th semester\Advanced programming\lab work\Dental Clinic Management System\Dental Clinic Management System\bin\Debug\Dental Clinic Management System.exe
+D:\6th semester\Advanced programming\lab work\Dental Clinic Management System\Dental Clinic Management System\bin\Debug\Dental Clinic Management System.pdb
+D:\6th semester\Advanced programming\lab work\Dental Clinic Management System\Dental Clinic Management System\obj\Debug\Dental Clinic Management System.csproj.AssemblyReference.cache
+D:\6th semester\Advanced programming\lab work\Dental Clinic Management System\Dental Clinic Management System\obj\Debug\Dental_Clinic_Management_System.Splash.resources
+D:\6th semester\Advanced programming\lab work\Dental Clinic Management System\Dental Clinic Management System\obj\Debug\Dental_Clinic_Management_System.Properties.Resources.resources
+D:\6th semester\Advanced programming\lab work\Dental Clinic Management System\Dental Clinic Management System\obj\Debug\Dental Clinic Management System.csproj.GenerateResource.cache
+D:\6th semester\Advanced programming\lab work\Dental Clinic Management System\Dental Clinic Management System\obj\Debug\Dental Clinic Management System.csproj.CoreCompileInputs.cache
+D:\6th semester\Advanced programming\lab work\Dental Clinic Management System\Dental Clinic Management System\obj\Debug\Dental Clinic Management System.exe
+D:\6th semester\Advanced programming\lab work\Dental Clinic Management System\Dental Clinic Management System\obj\Debug\Dental Clinic Management System.pdb
+D:\6th semester\Advanced programming\lab work\Dental Clinic Management System\Dental Clinic Management System\obj\Debug\Dental_Clinic_Management_System.Login.resources
+D:\6th semester\Advanced programming\lab work\Dental Clinic Management System\Dental Clinic Management System\obj\Debug\Dental Clinic Management System.exe.config
+D:\6th semester\Advanced programming\lab work\Dental Clinic Management System\Dental Clinic Management System\obj\Debug\Dental_Clinic_Management_System.Homeform.resources
+D:\6th semester\Advanced programming\lab work\Dental Clinic Management System\Dental Clinic Management System\obj\Debug\Dental_Clinic_Management_System.SystemForm.resources
+D:\6th semester\Advanced programming\lab work\Dental Clinic Management System\Dental Clinic Management System\obj\Debug\Dental_Clinic_Management_System.TreatmentForm.resources
+D:\6th semester\Advanced programming\lab work\Dental Clinic Management System\Dental Clinic Management System\obj\Debug\Dental_Clinic_Management_System.MedicineTypeForm.resources
+D:\6th semester\Advanced programming\lab work\Dental Clinic Management System\Dental Clinic Management System\obj\Debug\Dental_Clinic_Management_System.MedicineForm.resources
+D:\6th semester\Advanced programming\lab work\Dental Clinic Management System\Dental Clinic Management System\obj\Debug\Dental_Clinic_Management_System.CreditorForm.resources
+D:\6th semester\Advanced programming\lab work\Dental Clinic Management System\Dental Clinic Management System\obj\Debug\Dental_Clinic_Management_System.NewPatientForm.resources
+D:\6th semester\Advanced programming\lab work\Dental Clinic Management System\Dental Clinic Management System\obj\Debug\Dental_Clinic_Management_System.Medical.resources
